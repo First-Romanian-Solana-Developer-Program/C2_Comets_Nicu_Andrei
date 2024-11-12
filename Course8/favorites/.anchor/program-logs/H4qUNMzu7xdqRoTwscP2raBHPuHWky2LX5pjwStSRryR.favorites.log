@@ -1,0 +1,22 @@
+Streaming transaction logs mentioning H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR. Confirmed commitment
+Transaction executed in slot 9518:
+  Signature: 3W1HNBMDxv52N1S8HNXhnKSCfmjsYjEQNmC72njLdAYQ8x6hkfodzHjsNhDjt9efkwbBXfqqWgQywAagy4dorYXJ
+  Status: Ok
+  Log Messages:
+    Program H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR invoke [1]
+    Program log: Instruction: Initialize
+    Program log: Greetings from: H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR
+    Program H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR consumed 11948 of 200000 compute units
+    Program H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR success
+Transaction executed in slot 9519:
+  Signature: 3NmfZzvzbjwueczKRh7qgWQwmqKTz3damJJ4iwcfiHvptPkLkA8MWSGPpy3yJSQ18cTFuJMWfzKomngGm2E5TnXt
+  Status: Ok
+  Log Messages:
+    Program H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR invoke [1]
+    Program log: Instruction: SetFavorites
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Greetings from: AL9UcFp5RbzXLQLG1rq7QMfpmRtUfa5SUVGHXQ49aNHo, inside H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR
+    Program log: User's hobbies are ["blah", "halb"]
+    Program H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR consumed 34519 of 200000 compute units
+    Program H4qUNMzu7xdqRoTwscP2raBHPuHWky2LX5pjwStSRryR success
